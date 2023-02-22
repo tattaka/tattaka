@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![tattaka's github stats](https://github-readme-stats.vercel.app/api?username=tattaka&show_icons=true&theme=default&count_private=true)
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tattaka/competition/light)
+<!-- ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/tattaka/competition/light) -->
